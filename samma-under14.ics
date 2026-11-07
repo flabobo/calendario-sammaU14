@@ -1,6 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//Samma//Under14 Fixtures//IT
+PRODID:-//Samma//Under14 FIPAV//IT
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Samma Under 14 - Gare
@@ -9,179 +9,204 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:rom-131655319@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20261103T161500Z
 DTEND:20261103T181500Z
 SUMMARY:BCC ROMAGNOLO AZZURRA - SAMMA UNDER 14
-LOCATION:SCUOLA MEDIA 4 PLAUTO\, Via T.M.Plauto 21\, CESENA
+LOCATION:SCUOLA MEDIA 4 PLAUTO\, Via T.M.Plauto 21\, CESENA\, FC\, Italia
 DESCRIPTION:Giornata: 1\nGara n.: 385\nStato: risultato ufficioso\nGoogle M
  aps: https://www.google.com/maps/search/?api=1&query=Via+T.M.Plauto+21%2c+
- CESENA%2c+FC%2c+Italia
+ CESENA%2c+FC%2c+Italia\nFonte: https://www.fipavromagna.it/pagina-resp.asp
+ x?PId=17043&ComitatoId=75&stagioneId=2455&campionatoId=93788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655335@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20261112T163000Z
 DTEND:20261112T183000Z
 SUMMARY:CONSAR TEODORA U14 GIALLA - SAMMA UNDER 14
-LOCATION:PALESTRA ITIS LATERALE\, VIA CASSINO 10\, RAVENNA
+LOCATION:PALESTRA ITIS LATERALE\, VIA CASSINO 10\, RAVENNA\, RA\, Italia
 DESCRIPTION:Giornata: 5\nGara n.: 401\nStato: da disputare\nGoogle Maps: ht
  tps://www.google.com/maps/search/?api=1&query=VIA+CASSINO+10%2c+RAVENNA%2c
- +RA%2c+Italia
+ +RA%2c+Italia\nFonte: https://www.fipavromagna.it/pagina-resp.aspx?PId=170
+ 43&ComitatoId=75&stagioneId=2455&campionatoId=93788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655327@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20261116T160000Z
 DTEND:20261116T180000Z
 SUMMARY:RAINBOW - SAMMA UNDER 14
-LOCATION:PALA PICCI\, Via del Tulipano\, 4\, FORLIMPOPOLI
+LOCATION:PALA PICCI\, Via del Tulipano\, 4\, FORLIMPOPOLI\, FC\, Italia
 DESCRIPTION:Giornata: 3\nGara n.: 393\nStato: da disputare\nGoogle Maps: ht
  tps://www.google.com/maps/search/?api=1&query=Via+del+Tulipano%2c+4%2c+FOR
- LIMPOPOLI%2c+FC%2c+Italia
+ LIMPOPOLI%2c+FC%2c+Italia\nFonte: https://www.fipavromagna.it/pagina-resp.
+ aspx?PId=17043&ComitatoId=75&stagioneId=2455&campionatoId=93788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655331@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20261127T160000Z
 DTEND:20261127T180000Z
 SUMMARY:SAMMA UNDER 14 - FULGUR MIXER ROSSA
 LOCATION:PALAZZETTO LUIGI MARABINI - CAMPO A\, Viale Appennino 498 San Mart
- ino in Strada\, FORLI'
+ ino in Strada\, FORLI'\, FC\, Italia
 DESCRIPTION:Giornata: 4\nGara n.: 397\nStato: da disputare\nGoogle Maps: ht
  tps://www.google.com/maps/search/?api=1&query=Viale+Appennino+498+San+Mart
- ino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia
+ ino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia\nFonte: https://www.fipavromagna
+ .it/pagina-resp.aspx?PId=17043&ComitatoId=75&stagioneId=2455&campionatoId=
+ 93788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655323@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20261211T160000Z
 DTEND:20261211T180000Z
 SUMMARY:SAMMA UNDER 14 - NEXT VOLLEY
 LOCATION:PALAZZETTO LUIGI MARABINI - CAMPO A\, Viale Appennino 498 San Mart
- ino in Strada\, FORLI'
+ ino in Strada\, FORLI'\, FC\, Italia
 DESCRIPTION:Giornata: 2\nGara n.: 389\nStato: da disputare\nGoogle Maps: ht
  tps://www.google.com/maps/search/?api=1&query=Viale+Appennino+498+San+Mart
- ino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia
+ ino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia\nFonte: https://www.fipavromagna
+ .it/pagina-resp.aspx?PId=17043&ComitatoId=75&stagioneId=2455&campionatoId=
+ 93788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655346@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20261213T093000Z
 DTEND:20261213T113000Z
 SUMMARY:ACERBOLI FISIOKINETICA - SAMMA UNDER 14
-LOCATION:PALESTRA FRANCHINI\, Via Orsini 21\, SANTARCANGELO DI ROMAGNA
+LOCATION:PALESTRA FRANCHINI\, Via Orsini 21\, SANTARCANGELO DI ROMAGNA\, RN
+ \, Italia
 DESCRIPTION:Giornata: 7\nGara n.: 412\nStato: da disputare\nGoogle Maps: ht
  tps://www.google.com/maps/search/?api=1&query=Via+Orsini+21%2c+SANTARCANGE
- LO+DI+ROMAGNA%2c+RN%2c+Italia
+ LO+DI+ROMAGNA%2c+RN%2c+Italia\nFonte: https://www.fipavromagna.it/pagina-r
+ esp.aspx?PId=17043&ComitatoId=75&stagioneId=2455&campionatoId=93788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655351@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20270120T163000Z
 DTEND:20270120T183000Z
 SUMMARY:NEXT VOLLEY - SAMMA UNDER 14
 LOCATION:PALESTRA ISTITUTO M. CURIE - CAMPO 2\, Via della resistenza 33-35\
- , SAVIGNANO SUL RUBICONE
+ , SAVIGNANO SUL RUBICONE\, FC\, Italia
 DESCRIPTION:Giornata: 9\nGara n.: 417\nStato: da disputare\nGoogle Maps: ht
  tps://www.google.com/maps/search/?api=1&query=Via+della+resistenza+33-35%2
- c+SAVIGNANO+SUL+RUBICONE%2c+FC%2c+Italia
+ c+SAVIGNANO+SUL+RUBICONE%2c+FC%2c+Italia\nFonte: https://www.fipavromagna.
+ it/pagina-resp.aspx?PId=17043&ComitatoId=75&stagioneId=2455&campionatoId=9
+ 3788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655355@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20270129T160000Z
 DTEND:20270129T180000Z
 SUMMARY:SAMMA UNDER 14 - RAINBOW
 LOCATION:PALAZZETTO LUIGI MARABINI - CAMPO A\, Viale Appennino 498 San Mart
- ino in Strada\, FORLI'
+ ino in Strada\, FORLI'\, FC\, Italia
 DESCRIPTION:Giornata: 10\nGara n.: 421\nStato: da disputare\nGoogle Maps: h
  ttps://www.google.com/maps/search/?api=1&query=Viale+Appennino+498+San+Mar
- tino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia
+ tino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia\nFonte: https://www.fipavromagn
+ a.it/pagina-resp.aspx?PId=17043&ComitatoId=75&stagioneId=2455&campionatoId
+ =93788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655359@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20270201T170000Z
 DTEND:20270201T190000Z
 SUMMARY:FULGUR MIXER ROSSA - SAMMA UNDER 14
 LOCATION:PALESTRA COMUNALE\, VIA UNGARETTI 1 VILLANOVA DI BAGNACAVALLO\, BA
- GNACAVALLO
+ GNACAVALLO\, RA\, Italia
 DESCRIPTION:Giornata: 11\nGara n.: 425\nStato: da disputare\nGoogle Maps: h
  ttps://www.google.com/maps/search/?api=1&query=VIA+UNGARETTI+1+VILLANOVA+D
- I+BAGNACAVALLO%2c+BAGNACAVALLO%2c+RA%2c+Italia
+ I+BAGNACAVALLO%2c+BAGNACAVALLO%2c+RA%2c+Italia\nFonte: https://www.fipavro
+ magna.it/pagina-resp.aspx?PId=17043&ComitatoId=75&stagioneId=2455&campiona
+ toId=93788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655363@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20270212T160000Z
 DTEND:20270212T180000Z
 SUMMARY:SAMMA UNDER 14 - CONSAR TEODORA U14 GIALLA
 LOCATION:PALAZZETTO LUIGI MARABINI - CAMPO A\, Viale Appennino 498 San Mart
- ino in Strada\, FORLI'
+ ino in Strada\, FORLI'\, FC\, Italia
 DESCRIPTION:Giornata: 12\nGara n.: 429\nStato: da disputare\nGoogle Maps: h
  ttps://www.google.com/maps/search/?api=1&query=Viale+Appennino+498+San+Mar
- tino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia
+ tino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia\nFonte: https://www.fipavromagn
+ a.it/pagina-resp.aspx?PId=17043&ComitatoId=75&stagioneId=2455&campionatoId
+ =93788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655367@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20270216T160000Z
 DTEND:20270216T180000Z
 SUMMARY:IDEA VOLLEY BIM VERDE - SAMMA UNDER 14
 LOCATION:PALASPORT BELLARIA I.M. - LATO MARE\, Via Ennio 1 - Igea Marina\, 
- BELLARIA-IGEA MARINA
+ BELLARIA-IGEA MARINA\, RN\, Italia
 DESCRIPTION:Giornata: 13\nGara n.: 433\nStato: da disputare\nGoogle Maps: h
  ttps://www.google.com/maps/search/?api=1&query=Via+Ennio+1+-+Igea+Marina%2
- c+BELLARIA-IGEA+MARINA%2c+RN%2c+Italia
+ c+BELLARIA-IGEA+MARINA%2c+RN%2c+Italia\nFonte: https://www.fipavromagna.it
+ /pagina-resp.aspx?PId=17043&ComitatoId=75&stagioneId=2455&campionatoId=937
+ 88
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655347@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20270217T180000Z
 DTEND:20270217T200000Z
 SUMMARY:SAMMA UNDER 14 - BCC ROMAGNOLO AZZURRA
-LOCATION:ITAER - CASA DEL VOLLEY - CAMPO B\, Via Fontanelle 51\, FORLI'
+LOCATION:ITAER - CASA DEL VOLLEY - CAMPO B\, Via Fontanelle 51\, FORLI'\, F
+ C\, Italia
 DESCRIPTION:Giornata: 8\nGara n.: 413\nStato: da disputare\nGoogle Maps: ht
  tps://www.google.com/maps/search/?api=1&query=Via+Fontanelle+51%2c+FORLI%2
- 7%2c+FC%2c+Italia
+ 7%2c+FC%2c+Italia\nFonte: https://www.fipavromagna.it/pagina-resp.aspx?PId
+ =17043&ComitatoId=75&stagioneId=2455&campionatoId=93788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655339@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20270219T160000Z
 DTEND:20270219T180000Z
 SUMMARY:SAMMA UNDER 14 - IDEA VOLLEY BIM VERDE
 LOCATION:PALAZZETTO LUIGI MARABINI - CAMPO A\, Viale Appennino 498 San Mart
- ino in Strada\, FORLI'
+ ino in Strada\, FORLI'\, FC\, Italia
 DESCRIPTION:Giornata: 6\nGara n.: 405\nStato: da disputare\nGoogle Maps: ht
  tps://www.google.com/maps/search/?api=1&query=Viale+Appennino+498+San+Mart
- ino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia
+ ino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia\nFonte: https://www.fipavromagna
+ .it/pagina-resp.aspx?PId=17043&ComitatoId=75&stagioneId=2455&campionatoId=
+ 93788
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:rom-131655374@samma-under14-calendar
-DTSTAMP:20261107T060051Z
+DTSTAMP:20261107T144706Z
 DTSTART:20270226T160000Z
 DTEND:20270226T180000Z
 SUMMARY:SAMMA UNDER 14 - ACERBOLI FISIOKINETICA
 LOCATION:PALAZZETTO LUIGI MARABINI - CAMPO A\, Viale Appennino 498 San Mart
- ino in Strada\, FORLI'
+ ino in Strada\, FORLI'\, FC\, Italia
 DESCRIPTION:Giornata: 14\nGara n.: 440\nStato: da disputare\nGoogle Maps: h
  ttps://www.google.com/maps/search/?api=1&query=Viale+Appennino+498+San+Mar
- tino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia
+ tino+in+Strada%2c+FORLI%27%2c+FC%2c+Italia\nFonte: https://www.fipavromagn
+ a.it/pagina-resp.aspx?PId=17043&ComitatoId=75&stagioneId=2455&campionatoId
+ =93788
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
