@@ -1,14 +1,15 @@
-# Calendario Samma Under 14
+AGGIORNAMENTO REPOSITORY SAMMA UNDER 14
 
-Il file `samma-under14.ics` contiene le partite della squadra `rom-93788-samma-under-14`.
+Sostituisci questi due file nel repository GitHub:
+- genera_calendario.py (cartella principale)
+- .github/workflows/aggiorna.yml (mantieni il percorso)
 
-## Configurazione
-1. Crea un repository GitHub **pubblico** e carica `genera_calendario.py`, `samma-under14.ics` e `.github/workflows/aggiorna.yml`.
-2. Apri **Settings → Secrets and variables → Actions → Variables** e crea `JSON_URL`, con il valore `https://DOMINIO-REALE/api/v1/bootstrap` (sostituisci il dominio).
-3. Apri **Settings → Pages**, scegli **Deploy from a branch**, branch **main**, cartella **/(root)** e salva.
-4. Apri **Actions → Aggiorna calendario Samma Under 14 → Run workflow** per testare la prima esecuzione.
-5. Il link dell'abbonamento sarà `https://NOMEUTENTE.github.io/NOMEREPOSITORY/samma-under14.ics`.
+Non cancellare samma-under14.ics: sarà aggiornato dal workflow.
+Non modificare GitHub Pages: rimane branch main / (root).
+La variabile JSON_URL non è più utilizzata e può essere eliminata dopo aver verificato la nuova esecuzione.
 
-La pianificazione è ogni 6 ore (GitHub Actions può ritardare le esecuzioni). Il calendario client determina autonomamente ogni quanto rilegge l'ICS.
+Avvia Actions -> Aggiorna calendario Samma Under 14 da FIPAV -> Run workflow.
+Il workflow scarica la pagina FIPAV, legge le 14 gare della Samma Under 14, include palestre e link Google Maps, poi aggiorna il file ICS.
+Se il sito FIPAV cambia formato o non restituisce le gare, il workflow fallisce senza sovrascrivere il file ICS.
 
-**Nota:** per l'aggiornamento automatico l'endpoint JSON deve essere pubblicamente raggiungibile e autorizzato all'accesso; un endpoint che richiede autenticazione o blocca le richieste automatiche richiede una configurazione diversa.
+Nota: verificato su HTML fornito il 7 novembre 2026; accessibilità del sito da GitHub Actions da confermare alla prima esecuzione.
