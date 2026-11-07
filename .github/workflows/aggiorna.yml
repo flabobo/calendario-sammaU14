@@ -1,0 +1,32 @@
+
+name: Aggiorna calendario Samma Under 14 da FIPAV
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  aggiorna:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Installa parser HTML
+        run: python -m pip install beautifulsoup4
+      - name: Scarica gare FIPAV e genera ICS
+        run: python genera_calendario.py --output samma-under14.ics
+      - name: Pubblica eventuali modifiche
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add samma-under14.ics
+          if ! git diff --cached --quiet; then
+            git commit -m 'Aggiorna calendario Samma Under 14 da FIPAV'
+            git push
+          fi
